@@ -1,0 +1,1 @@
+Get major chain to this address, ie. the path which contributed most to this address. We find this out getting the major contributor recursively.
